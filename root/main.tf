@@ -17,15 +17,15 @@ module "vcsworkflowtest" {
     repository = {
       gcp = {
         pr = {
-          service_account = "sareposdcvcv@sdcvcv.iam.gserviceaccount.com"
-          sa_project_id   = "sdcvcv"
+          service_account = "sarepoprcvcl@prcvcv.iam.gserviceaccount.com"
+          sa_project_id   = "prcvcv"
           project_number  = "593664895684"
           pool_id         = "ghecvcvprcvcv"
           provider_id     = "gh-provider"
         },
         np = {
-          service_account = "sareposdcvcv@sdcvcv.iam.gserviceaccount.com"
-          sa_project_id   = "sdcvcv"
+          service_account = "sareponpcvcl@npcvcv.iam.gserviceaccount.com"
+          sa_project_id   = "npcvcv"
           project_number  = "593664895684"
           pool_id         = "ghecvcvnpcvcv"
           provider_id     = "gh-provider"
