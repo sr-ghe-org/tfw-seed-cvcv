@@ -26,7 +26,7 @@ module "vcsworkflowtest" {
         np = {
           service_account = "sareponpcvcl@npcvcv.iam.gserviceaccount.com"
           sa_project_id   = "npcvcv"
-          project_number  = "593664895684"
+          project_number  = "535584060380"
           pool_id         = "ghecvcvnpcvcv"
           provider_id     = "gh-provider"
         }
